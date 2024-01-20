@@ -2,5 +2,5 @@ burada bir takim kodlar var
 images
 alperen-css
 alperen-html
-changes in file
 changes from github
+changes
