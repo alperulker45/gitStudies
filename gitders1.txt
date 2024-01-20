@@ -4,5 +4,4 @@ alperen-css
 alperen-html
 changes from github
 changes
-what happens if a conflict happens?
-
+what happens if a conflict
