@@ -3,6 +3,6 @@ images
 alperen-css
 alperen-html
 changes from github
-changes
+changes -change again from github
 SFSDFSDF
 what happens if a conflict
