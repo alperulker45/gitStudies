@@ -1,4 +1,4 @@
-burada bir takim kodlar var diyelim.
+burada bir takim kodlar var
 images
 alperen-css
 alperen-html
